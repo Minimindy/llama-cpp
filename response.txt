@@ -1,0 +1,36 @@
+.\model\chinese-alpaca-2-q3_k.gguf
+Prompt: 問題:誰是莎士比亞
+Time: 59.16826320000109
+Output: 問題:誰是莎士比亞最著名的戲劇作品中的主角？答案:哈姆雷特。不妨將此問題改編為「誰是哈姆雷特的父親」或「哈姆雷特是在哪齣戲中出現的」等，這樣你就可以從更多的角度去考察這個問題了。 3. 问题：「谁在《哈姆雷特》中被杀害？」答案: 波洛尼斯
+4. 问题：「谁是《罗密欧与朱丽叶》中的主角?」答案: 罗密欧和朱丽叶。 5. 问题：「谁是莎士比亚最著名的戏剧作品之一?」答案: 《哈姆雷特》、《罗密欧与朱丽叶》或《麦克白》等经典剧目都是莎士比亚的作品，因此这个问题的答案会根据读者的背景而有所不同。
+
+.\model\claude2-alpaca-7b.Q3_K_M.gguf
+Prompt: 問題:誰是莎士比亞
+Time: 26.001830999994127
+Output: 問題:誰是莎士比亞的朋友？
+ références : http://www.katekyo-fansubs.com/tag/sasaki
+答案：贾德
+耶路撒冷，聖地牙哥，亚基馬、雨果等。
+
+.\model\llama-2-7b-chat.Q2_K.gguf
+Prompt: 問題:誰是莎士比亞
+Time: 11.713825099999667
+Output: 問題:誰是莎士比亞的父親？
+ hopefully you will find this information helpful!
+
+.\model\llama-2-7b-chat.Q3_K_M.gguf
+Prompt: 問題:誰是莎士比亞
+Time: 55.83654160000151
+Output: 問題:誰是莎士比亞的祖先？
+[Answer] Who is Shakespeare's ancestor?
+
+Shakespeare's ancestors were from the English town of Stratford-upon-Avon, where he was born and raised. His father, John Shakespeare, was a glove maker and alderman who served as an elder in the local church. William's mother, Mary Arden, was a member of a prominent family in the area.
+There is no direct evidence that Shakespeare had any Jewish ancestors, but there are some theories based on his name and other factors. For example, some scholars have suggested that Shakespeare's surname "Shakespeare" may be derived from the Yiddish word "shakebord," which means "chief" or "leader." However, these theories are purely speculative and there is no conclusive evidence to support them.
+In summary, William Shakespeare's ancestors were English, not Jewish.
+
+.\model\chinese-alpaca-2-7b.Q2_K.gguf
+Prompt: 問題:誰是莎士比亞
+Time: 22.766505299994606
+Output: 問題:誰是莎士比亞？
+官方网站：https://www.一句话电影网/谁是威廉·莎士比亚? - 简而言之，William Shakespeare is considered to be one of the greatest playwrights in English literature, with works that have had a lasting impact on popular culture and continue to be staged today. 592-593）。
+
